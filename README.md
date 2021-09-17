@@ -4,7 +4,7 @@
 
 This demo project demonstrates how to automate any postman collection by adding [Newman](https://www.npmjs.com/package/newman) as a library within a Javascript project. The following example runs a collection by reading a JSON collection file stored on the project directory.
 
-As an example, the [Open Notify API]("http://open-notify.org/") open source project is used.
+As an example, the [Open Notify API](http://open-notify.org) open source project is used.
 
 ## Requirements
 
