@@ -4,7 +4,6 @@ const collection = require("./collections/postman_collection.json");
 newman.run(
   {
     collection: collection,
-    reporters: ["htmlextra"],
     reporters: ["cli", "html"],
     insecure: false,
     color: "on",
