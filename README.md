@@ -15,5 +15,5 @@ As an example, the [Open Notify API](http://open-notify.org) open source project
 ## Commands
 
 ```sh
-$ yarn install && yarn run newman
+yarn install && yarn run newman
 ```
