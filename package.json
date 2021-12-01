@@ -16,5 +16,6 @@
     "newman": "^5.3.0",
     "newman-reporter-html": "^1.0.5",
     "postman-collection": "^4.1.0",
+    "postman-request": "^2.88.1-postman.30"
   }
 }
