@@ -2,6 +2,10 @@
   "name": "postman-collection-automation",
   "version": "1.0.0",
   "description": "Automate the postman collection using Newman as a library",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burakkaygusuz/postman-collection-automation.git"
+  },
   "main": "index.js",
   "scripts": {
     "newman": "node index.js"
