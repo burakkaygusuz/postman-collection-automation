@@ -4,11 +4,11 @@ const collection = require("./collections/postman_collection.json");
 newman.run(
   {
     collection: collection,
-    reporters: ["cli", "html"],
+    reporters: ["cli"],
     insecure: false,
     color: "on",
   },
-  function (err) {
+  (err) => {
     if (err) {
       throw err;
     }

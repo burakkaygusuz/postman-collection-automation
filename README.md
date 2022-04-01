@@ -10,10 +10,8 @@ As an example, the [Open Notify API](http://open-notify.org) open source project
 
 - This project requires [Nodejs](https://nodejs.org/en/) to run.
 
-- Install [Yarn](https://yarnpkg.com/) using this command: `npm install -g yarn`
-
 ## Commands
 
-```sh
-yarn install && yarn run newman
+```shell
+npm install && npm run newman
 ```
